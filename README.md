@@ -1,2 +1,2 @@
 # Data Structures and Algorithms
-Created in the process of learning data structures
+Created to show my learning process
